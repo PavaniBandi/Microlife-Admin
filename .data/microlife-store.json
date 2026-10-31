@@ -1,0 +1,59 @@
+{
+  "settings": [
+    {
+      "_id": "production",
+      "cocopeatBrickPrice": 350,
+      "traysPerBrick": 15,
+      "packagingTypes": [
+        {
+          "id": "box-100g",
+          "name": "100g Microgreens Box",
+          "sizeGrams": 100,
+          "costPerBox": 5
+        }
+      ]
+    }
+  ],
+  "varieties": [
+    {
+      "_id": "6ae597aeb3961fa9364c1769",
+      "name": "Purple Radish",
+      "gramsPerTray": 70,
+      "defaultSellPrice": 250,
+      "active": true,
+      "createdAt": "2026-10-31T07:24:30.441Z"
+    },
+    {
+      "_id": "6ae597aeb3961fa9364c176a",
+      "name": "Pink Radish",
+      "gramsPerTray": 70,
+      "defaultSellPrice": 250,
+      "active": true,
+      "createdAt": "2026-10-31T07:24:30.444Z"
+    },
+    {
+      "_id": "6ae597aeb3961fa9364c176b",
+      "name": "Mustard",
+      "gramsPerTray": 50,
+      "defaultSellPrice": 250,
+      "active": true,
+      "createdAt": "2026-10-31T07:24:30.445Z"
+    },
+    {
+      "_id": "6ae597aeb3961fa9364c176c",
+      "name": "Bok Choy",
+      "gramsPerTray": 50,
+      "defaultSellPrice": 250,
+      "active": true,
+      "createdAt": "2026-10-31T07:24:30.445Z"
+    }
+  ],
+  "purchases": [],
+  "sowingBatches": [],
+  "harvests": [],
+  "packedLots": [],
+  "sales": [],
+  "electricity": [],
+  "expenses": [],
+  "inventoryTx": []
+}
